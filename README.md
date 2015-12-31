@@ -1,0 +1,2 @@
+# sunny
+Lyc repozitar
