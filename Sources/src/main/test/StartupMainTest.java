@@ -1,7 +1,7 @@
-import org.junit.Test;
 import sk.trivial.DefendOfTheAnatolij.StartupMain;
+import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Created by JLyc.Development@gmail.com on 12/31/2015.

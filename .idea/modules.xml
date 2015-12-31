@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sources/Sources.iml" filepath="$PROJECT_DIR$/Sources/Sources.iml" />
       <module fileurl="file://$PROJECT_DIR$/shareProject.iml" filepath="$PROJECT_DIR$/shareProject.iml" />
     </modules>
   </component>
