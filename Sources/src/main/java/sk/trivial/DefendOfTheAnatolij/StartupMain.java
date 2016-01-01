@@ -49,9 +49,6 @@ public class StartupMain {
         }
     }
 
-
-
-
     /**
      * If all other thread are dead, this method will close program
      */
